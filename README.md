@@ -15,3 +15,8 @@ Testing of features should happen in multiple areas. Currently recommended are:
 - Paris
 - London
 - Tokyo
+
+### Code Guidelines
+- Attempt to keep data loaded into mapbox layer as minimal as possible, do other feature augmentation outside the mapbox context.
+
+  Example: Keep a translation to miles per hour or km/h in the svelte data window, not in mapbox.
