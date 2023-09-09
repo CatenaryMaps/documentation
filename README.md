@@ -20,3 +20,6 @@ Testing of features should happen in multiple areas. Currently recommended are:
 - Attempt to keep data loaded into mapbox layer as minimal as possible, do other feature augmentation outside the mapbox context.
 
   Example: Keep a translation to miles per hour or km/h in the svelte data window, not in mapbox.
+
+- Keep code file under 500 lines, and attempt to move functions into their own files
+- Do not wrap functions inside callbacks, keep them global. Otherwise, it leads to excess heap allocation and de-allocation.
