@@ -25,3 +25,4 @@ Testing of features should happen in multiple areas. Currently recommended are:
 - Do not wrap functions inside callbacks, keep them global. Otherwise, it leads to excess heap allocation and de-allocation.
 - Use tailwind before writing using own CSS styles
 - Split components up
+- use the word "label" to designate that property is for human consumption, while anything else can be assumed a valid lookup argument
