@@ -23,3 +23,5 @@ Testing of features should happen in multiple areas. Currently recommended are:
 
 - Keep code file under 500 lines, and attempt to move functions into their own files
 - Do not wrap functions inside callbacks, keep them global. Otherwise, it leads to excess heap allocation and de-allocation.
+- Use tailwind before writing using own CSS styles
+- Split components up
