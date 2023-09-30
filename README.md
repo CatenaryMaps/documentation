@@ -26,3 +26,7 @@ Testing of features should happen in multiple areas. Currently recommended are:
 - Use tailwind before writing using own CSS styles
 - Split components up
 - use the word "label" to designate that property is for human consumption, while anything else can be assumed a valid lookup argument
+
+## This repo
+
+Ignore the helloworld.rs, it's a requirement for the repo to show up in Github Project Management
