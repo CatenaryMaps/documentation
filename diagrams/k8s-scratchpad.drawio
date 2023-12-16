@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T07:07:07.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="_tr5zSwFD9BGZunOGdfy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T07:09:52.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="st8JXO_q-R6uyOLkzFIN" version="22.1.11" type="github">
   <diagram name="Page-1" id="ft7G5rCJ2FlZqFdv7HdG">
-    <mxGraphModel>
+    <mxGraphModel dx="533" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MPpLhg5fcs_aaOdyChwY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="430" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MPpLhg5fcs_aaOdyChwY-2" value="k8s container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPpLhg5fcs_aaOdyChwY-3" value="Environment" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
